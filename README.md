@@ -10,7 +10,8 @@ Takım X
 - Gamze Kuyumcu
 - Mustafa Yiğit (Developer)
 - Çağla Uysal
-- Yağız Şenoğly
+- Yağız Şenoğlu
+
 ## Ürün İsmi
 
 -- x --

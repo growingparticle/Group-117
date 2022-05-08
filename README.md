@@ -68,8 +68,8 @@ X'in Macerası
         
  - Sprint Retrospective:
 Takım içindeki görev dağılımı yapılmıştır. Ayrılabilecek eforlar tartışılıp görev tanımları netleştirilmiştir.
-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-Ayrılan efor/saat kalite için arttırılmalı
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı ve
+ayrılan efor/saat kalite için arttırılmalıdır.
 
         
 

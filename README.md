@@ -53,6 +53,14 @@ X'in Macerası
 ![Backlog 1] https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png
 ---
 
+
+
+
+        
+            
+        
+
+    
 # Sprint 2
 
 

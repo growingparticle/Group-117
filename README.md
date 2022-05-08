@@ -50,7 +50,7 @@ X'in Macerası
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır
 
-![Backlog 1] https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
 ---
 
 

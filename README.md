@@ -48,16 +48,29 @@ X'in Macerası
 
 - Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmaya devam edilen story'leri  yeşiller ise tamamlanmış olan görevleri temsil etmektedir.
 
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
 
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b-117.png)
+---
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b117.png)
 ---
 
+- Sprint board update: Sprint board screenshotları:
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
+---
+- Ürün Durumu: Ekran görüntüleri:
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+---
 
+- Sprint Review: Alınan kararlar: Karakterin adı hızlıca belirlenmeli, toplayacağı item konusundki fikir ayrılıkları çözülmeli. Developer ekip scrum sayısını arttırmalı.
 
-
+- Sprint Review katılımcıları: Mustafa Yiğit Gülşen, Gamze Nur Kuyumcu, Mehmet Ehliz, Yağız Şenoğlu
         
-            
+ - Sprint Retrospective:
+Takım içindeki görev dağılımı yapılmıştır. Ayrılabilecek eforlar tartışılıp görev tanımları netleştirilmiştir.
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+Ayrılan efor/saat kalite için arttırılmalı
+
         
 
     

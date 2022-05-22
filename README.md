@@ -34,6 +34,8 @@ X'in Macerası
 
 ## Product Backlog URL
 
+https://trello.com/b/pN8t0XCM/bootcamp-117
+
 ---
 
 # Sprint 1

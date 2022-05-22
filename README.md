@@ -103,14 +103,14 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
 ---
 
-- Sprint Review: Alınan kararlar: 
+- Sprint Review: Alınan kararlar: Karekterin fiziksel harektleri (hızı, zıplaması) incelendi. Oyunun oynanabirlitesini arttırmak üzeri kafa yoruldu. Oyunu rekabetçi hale getirilmesine karar verildi.
 
 - Sprint  Review katılımcıları: Yağız Şenoğlu, Gamze Nur Kuyumcu, Mehmet Ehliz, Emine Çağla Uysal.
         
  - Sprint Retrospective:
 Takım içindeki görev dağılımına göre hareket etme konusunda istikrarlı davranılmalı fakat çevik proje yönetimine de ayak uydurulmalı.
 Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-Ayrılan efor/saat kalite arttırılmalı
+Ayrılan efor/saat kalite arttırılmalı. Toplantılardan önce gündemi önceden belirtilmeli ve katılımcılara hatırlatma mesajı atılmalı.
 
 
 

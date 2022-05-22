@@ -97,7 +97,7 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 ---
 
 - Sprint board update: Sprint board screenshotları:
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/tr%202.png)
 ---
 - Ürün Durumu: Ekran görüntüleri:
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)

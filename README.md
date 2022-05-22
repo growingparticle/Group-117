@@ -105,7 +105,7 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 
 - Sprint Review: Alınan kararlar: 
 
-- Sprint Review katılımcıları: Yağız Şenoğlu, Gamze Nur Kuyumcu, Mehmet Ehliz, Emine Çağla Uysal.
+- Sprint  Review katılımcıları: Yağız Şenoğlu, Gamze Nur Kuyumcu, Mehmet Ehliz, Emine Çağla Uysal.
         
  - Sprint Retrospective:
 Takım içindeki görev dağılımına göre hareket etme konusunda istikrarlı davranılmalı fakat çevik proje yönetimine de ayak uydurulmalı.

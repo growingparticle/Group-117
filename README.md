@@ -86,11 +86,14 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 
 - Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmaya devam edilen story'leri  yeşiller ise tamamlanmış olan görevleri temsil etmektedir.
 
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmaktadır. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
 
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Wh%201.png)
 ---
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Wh%202.png)
+
+---
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sl%201.png)
 ---
 
 - Sprint board update: Sprint board screenshotları:
@@ -100,14 +103,15 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
 ---
 
-- Sprint Review: Alınan kararlar: Karakterin adı hızlıca belirlenmeli, toplayacağı item konusundki fikir ayrılıkları çözülmeli. Developer ekip scrum sayısını arttırmalı.
+- Sprint Review: Alınan kararlar: 
 
-- Sprint Review katılımcıları: Mustafa Yiğit Gülşen, Gamze Nur Kuyumcu, Mehmet Ehliz, Yağız Şenoğlu
+- Sprint Review katılımcıları: Yağız Şenoğlu, Gamze Nur Kuyumcu, Mehmet Ehliz, Emine Çağla Uysal.
         
  - Sprint Retrospective:
-Takım içindeki görev dağılımı yapılmıştır. Ayrılabilecek eforlar tartışılıp görev tanımları netleştirilmiştir.
-Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı ve
-ayrılan efor/saat kalite için arttırılmalıdır.
+Takım içindeki görev dağılımına göre hareket etme konusunda istikrarlı davranılmalı fakat çevik proje yönetimine de ayak uydurulmalı.
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+Ayrılan efor/saat kalite arttırılmalı
+
 
 
 ---

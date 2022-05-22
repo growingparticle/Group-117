@@ -88,9 +88,9 @@ ayrılan efor/saat kalite için arttırılmalıdır.
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
 
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b-117.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Wh%201.png)
 ---
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b117.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Wh%202.png)
 ---
 
 - Sprint board update: Sprint board screenshotları:

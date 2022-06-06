@@ -122,5 +122,37 @@ Ayrılan efor/saat kalite arttırılmalı. Toplantılardan önce gündemi önced
 
 # Sprint 3
 
+ -Sprint Notları: Bu sprintte oyunun bitiş ve sunuş aşamaları tartışılmış, oyun tamemen bittikten sonra oyunu göndermeden önce grubu tekrar toplayıp oyunu test etmeye karar verilmiştir.
+
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+- Puan Tamamlama Mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde oyunun geçerli olması için gereken asgari puan bu olmuştur.
+
+- Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+- Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmaya devam edilen story'leri  yeşiller ise tamamlanmış olan görevleri temsil etmektedir.
+
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b-117.png)
+---
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b117.png)
+---
+
+- Sprint board update: Sprint board screenshotları:
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
+---
+- Ürün Durumu: Ekran görüntüleri:
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+---
+
+- Sprint Review: Alınan kararlar: Oyunun son sahnesi hakkında fikir ayrılıkları çözüşmeli, ürün teslimi, ürün teslim bilgi notuna uygun olarak doldurulmalı, oyunun bir dakikalık videosu çekilmeli, 
+
+- Sprint Review katılımcıları: Mehmet Ehliz, Yağız Şenoğlu
+        
+ - Sprint Retrospective:
+Sprint Review katılımcılarıyla birlikte süreç değerlendirilmesi yapılmış, sonraki olası projelerde nelerin daha iyi yapılabileceği, nelerin korunması gerektiği tartışılmıştır. Bir sonraki toplantıya kadar oyunu teslim etmeden önce tüm grubun bir araya geleceği bir toplantı yapılması karar verilmiştir.
+
+
 ---
 

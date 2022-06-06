@@ -143,7 +143,9 @@ Ayrılan efor/saat kalite arttırılmalı. Toplantılardan önce gündemi önced
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%20trello.png)
 ---
 - Ürün Durumu: Ekran görüntüleri:
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%20f1.jpeg)
+
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%20f2.jpeg)
 ---
 
 - Sprint Review: Alınan kararlar: Oyunun son sahnesi hakkında fikir ayrılıkları çözüşmeli, ürün teslimi, ürün teslim bilgi notuna uygun olarak doldurulmalı, oyunun bir dakikalık videosu çekilmeli, 

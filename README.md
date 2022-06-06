@@ -52,13 +52,13 @@ https://trello.com/b/pN8t0XCM/bootcamp-117
 
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp ve Slack Huddle aracı üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır.
 
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b-117.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%201.png)
 ---
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/b117.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%202.png)
 ---
 
 - Sprint board update: Sprint board screenshotları:
-![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/Sprint%20board%20screenshotlar%C4%B1.png)
+![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/s3%20-%20trello.png)
 ---
 - Ürün Durumu: Ekran görüntüleri:
 ![Backlog 1](https://github.com/growingparticle/Group-117/blob/main/ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
